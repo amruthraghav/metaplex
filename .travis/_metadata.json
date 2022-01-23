@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Test Solana NFT Collection #1",
+    "symbol": "TSNFT",
+    "description": "Big Things Coming UP",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3P9h87KdbyoEAEFDSRLqW169Y1ukoNHmc6xaa9kVCsf7",
+          "share": 10
+        }
+      ]
+    }
+  },
+  {
+    "name": "Test Solana NFT Collection #10",
+    "symbol": "TSNFT",
+    "description": "Big Things Coming UP",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3P9h87KdbyoEAEFDSRLqW169Y1ukoNHmc6xaa9kVCsf7",
+          "share": 10
+        }
+      ]
+    }
+  },
+  {
+    "name": "Test Solana NFT Collection #2",
+    "symbol": "TSNFT",
+    "description": "Big Things Coming UP",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3P9h87KdbyoEAEFDSRLqW169Y1ukoNHmc6xaa9kVCsf7",
+          "share": 10
+        }
+      ]
+    }
+  },
+  {
+    "name": "Test Solana NFT Collection #5",
+    "symbol": "TSNFT",
+    "description": "Big Things Coming UP",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3P9h87KdbyoEAEFDSRLqW169Y1ukoNHmc6xaa9kVCsf7",
+          "share": 10
+        }
+      ]
+    }
+  },
+  {
+    "name": "Test Solana NFT Collection #4",
+    "symbol": "TSNFT",
+    "description": "Big Things Coming UP",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3P9h87KdbyoEAEFDSRLqW169Y1ukoNHmc6xaa9kVCsf7",
+          "share": 10
+        }
+      ]
+    }
+  },
+  {
+    "name": "Test Solana NFT Collection #0",
+    "symbol": "TSNFT",
+    "description": "Big Things Coming UP",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3P9h87KdbyoEAEFDSRLqW169Y1ukoNHmc6xaa9kVCsf7",
+          "share": 10
+        }
+      ]
+    }
+  },
+  {
+    "name": "Test Solana NFT Collection #9",
+    "symbol": "TSNFT",
+    "description": "Big Things Coming UP",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3P9h87KdbyoEAEFDSRLqW169Y1ukoNHmc6xaa9kVCsf7",
+          "share": 10
+        }
+      ]
+    }
+  },
+  {
+    "name": "Test Solana NFT Collection #6",
+    "symbol": "TSNFT",
+    "description": "Big Things Coming UP",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3P9h87KdbyoEAEFDSRLqW169Y1ukoNHmc6xaa9kVCsf7",
+          "share": 10
+        }
+      ]
+    }
+  },
+  {
+    "name": "Test Solana NFT Collection #3",
+    "symbol": "TSNFT",
+    "description": "Big Things Coming UP",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3P9h87KdbyoEAEFDSRLqW169Y1ukoNHmc6xaa9kVCsf7",
+          "share": 10
+        }
+      ]
+    }
+  },
+  {
+    "name": "Test Solana NFT Collection #8",
+    "symbol": "TSNFT",
+    "description": "Big Things Coming UP",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "3P9h87KdbyoEAEFDSRLqW169Y1ukoNHmc6xaa9kVCsf7",
+          "share": 10
+        }
+      ]
+    }
+  }
+]

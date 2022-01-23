@@ -1,14 +1,14 @@
 {
-  "price": 0.01,
-  "number": null,
+  "price": 0.05,
+  "number": 10,
   "gatekeeper": {
     "gatekeeperNetwork": "ignREusXmGrscGNUesoU9mxfds9AiYTezUKex2PsZV6",
     "expireOnUse": true
   },
-  "solTreasuryAccount": null,
+  "solTreasuryAccount": "BvT5D11JiYhy2dULR1dgJFjF1bbZWDBXy9LMahyu8U9u",
   "splTokenAccount": null,
   "splToken": null,
-  "goLiveDate": null,
+  "goLiveDate": "23 Jan 2022 07:50:00 EST",
   "endSettings": null,
   "whitelistMintSettings": null,
   "hiddenSettings": null,
